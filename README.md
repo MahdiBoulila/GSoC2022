@@ -1,6 +1,7 @@
 # GSoC'2022
 Working with ML4Sci to contribute to open-source software development through A.I.
 The repository is linked to the article: https://mahdiboulila.medium.com/google-summer-of-code-2022-finding-exoplanets-with-astronomical-observations-985d8cd26b34
+
 ![Header of the Article](/img/header.png)
 
 Relevant Paragraphs:
