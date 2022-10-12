@@ -10,5 +10,5 @@ The program’s goal is to introduce coders to open-source software development 
 ## Project Preliminary
 In this article, we propose the idea of using Machine Learning to identify exoplanets. We used the Kepler Dataset collected by NASA from the TESS mission to conduct supervised Learning, which predicts the existence of exoplanet candidates as a binary classification task, using Neural Networks with PyTorch. The result reaches 93% accuracy at its best.
 
-#How to Run
+# How to Run
 running the python script from the command terminal/shell will produce a save of the PyTorch neural network, and a couple of pictures for the benchmarks.
